@@ -1,3 +1,11 @@
-Brizuela Maximiliano 112466
-Mova Ignacio 143531
-Zabala Mariano 143116
+Nombre: Brizuela Maximiliano
+Legajo: 112466
+Mail: maxin.brizuela@gmail.com
+
+Nombre: Mova Ignacio
+Legajo: 143531
+Mail: ignaciomova@outlook.com
+
+Nombre: Zabala Mariano
+Legajo: 143116
+Mail: marianol.zabala@gmail.com
