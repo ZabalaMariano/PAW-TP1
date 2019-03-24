@@ -2,4 +2,4 @@ Consigna: Elabore en HTML5 una página que contenga su currículum vítae, respe
 Tenga en cuenta que los elementos subrayados son enlaces a páginas web o a direcciones de correo electrónico y que la foto debe 
 ser un enlace a la propia imagen. Determine qué tags con qué atributos son necesarios en cada caso.
 <br><br>
-![alt tablaPunto7](https://github.com/ZabalaMariano/PAW-TP1/blob/master/7/tabla.png)
+![alt tablaPunto7](https://github.com/ZabalaMariano/PAW-TP1/blob/master/7/CV.png)
