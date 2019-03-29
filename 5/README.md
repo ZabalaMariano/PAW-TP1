@@ -13,4 +13,4 @@ Captura del sitio:
 <br>
 Wireframe:
 <br>
-![alt curriculumVitae](https://github.com/ZabalaMariano/PAW-TP1/blob/master/5/Página Web Luján.png)
+![alt curriculumVitae](https://github.com/ZabalaMariano/PAW-TP1/blob/master/5/Wireframe_pagina_web_lujan.png)
