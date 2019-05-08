@@ -3,9 +3,67 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Tabla Punto 7</title>
+	<style>
+		table, th, td {
+			border: black solid 1px;
+			border-collapse: collapse;
+		}
+		.a {
+			background: red;
+		}
+		.b {
+			background: blue;
+		}
+		.c {
+			background: red;
+		}
+		.d {
+			background: blue;
+		}
+		.e {
+			background: red;
+		}
+		.f {
+			background: blue;
+		}
+		.g {
+			background: red;
+		}
+		.col1 {
+			background: blue;
+		}
+		.col2 {
+			background: red;
+		}
+		.col3 {
+			background: blue;
+		}
+		.col4 {
+			background: red;
+		}
+		.col5 {
+			background: blue;
+		}
+		.col6 {
+			background: red;
+		}
+		.col7 {
+			background: blue;
+		}
+	</style>
 </head>
 <body>
 	<table>
+		<colgroup>
+			<col class="col0">
+			<col class="col1">
+			<col class="col2">
+			<col class="col3">
+			<col class="col4">
+			<col class="col5">
+			<col class="col6">
+			<col class="col7">
+		</colgroup>
 		<thead>
 			<tr>
 				<th scope="col" rowspan="2">Fecha de entrega</th>	
@@ -30,7 +88,7 @@
 		<tbody>
 			<tr>
 				<td>17/08</td>
-				<td rowspan="3">HTML5</td>
+				<td rowspan="3" class="a">HTML5</td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -40,7 +98,7 @@
 			</tr>
 			<tr>
 				<td>24/08</td>
-				<td rowspan="3">PHP</td>
+				<td rowspan="3" class="b">PHP</td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -49,7 +107,7 @@
 			</tr>
 			<tr>
 				<td>31/08</td>
-				<td rowspan="3">JS</td>
+				<td rowspan="3" class="c">JS</td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -67,7 +125,7 @@
 				<td>14/09</td>
 				<td></td>
 				<td></td>
-				<td rowspan="4">CSS3</td>
+				<td rowspan="4" class="d">CSS3</td>
 				<td></td>
 				<td></td>
 				<td></td>
@@ -86,7 +144,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td rowspan="4">PHP</td>
+				<td rowspan="4" class="e">PHP</td>
 				<td></td>
 				<td></td>
 			</tr>
@@ -113,7 +171,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td rowspan="2">SVG</td>
+				<td rowspan="2" class="f">SVG</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -123,7 +181,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td rowspan="6"></td>
+				<td rowspan="6" class="g"></td>
 			</tr>
 			<tr>
 				<td>02/11</td>
@@ -174,3 +232,4 @@
 	</table>
 </body>
 </html>
+
